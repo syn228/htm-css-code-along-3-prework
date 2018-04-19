@@ -18,7 +18,8 @@ figcaption {
   color: #777;
   text-align: right
 }
-
+/* class selector 
+*/
 .milk-text{
   font: bold 2.6em "Elsie Swash Caps", cursive;
   color: white;
