@@ -14,7 +14,7 @@ figcaption {
   font-size: 0.75em;
   line-height: 1.5em;
   font-family: Georgia, "Times New Roman", Sans-Serif;*/
-  font: normal 0.75em/1.5em "Elsie Swash Caps cur";
+  font: normal 0.75em/1.5em "Elsie Swash Caps", cursive;
   color: #777;
   text-align: right
 }
